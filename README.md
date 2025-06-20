@@ -33,8 +33,8 @@ This project aims to predict carbon dioxide (CO₂) emissions using historical e
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/carbon-emission-prediction.git
-   cd carbon-emission-prediction
+   git clone https://github.com/Kxnnxn/week1
+   cd week1
    ```
 
 2. Install dependencies:
@@ -43,13 +43,7 @@ This project aims to predict carbon dioxide (CO₂) emissions using historical e
    pip install -r requirements.txt
    ```
 
-3. Run the model or dashboard (as applicable):
 
-   ```bash
-   python predict.py
-   ```
-
-## 📊 Demo
 
 *Coming soon*: Interactive web dashboard and prediction demo.
 
