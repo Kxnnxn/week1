@@ -50,5 +50,7 @@ This project aims to predict carbon dioxide (CO₂) emissions using historical e
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+https://drive.google.com/file/d/17Ddz_wF16euHVy6spE_o0M5uxjd0SJA0/view?usp=drive_link
+
 
 
